@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\College\\UCC SCHOOL\\UCC 2A SEM\\UCC 2A 2ndSEM\\ADVANCE DATABASE SYSTEM\\CarRentalSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|d:\\college\\ucc school\\ucc 2a sem\\ucc 2a 2ndsem\\advance database system\\carrentalsystem\\finalcarrentalsystem\\forms\\listofcars.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|solutionrelative:finalcarrentalsystem\\forms\\listofcars.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|D:\\College\\UCC SCHOOL\\UCC 2A SEM\\UCC 2A 2ndSEM\\ADVANCE DATABASE SYSTEM\\CarRentalSystem\\finalcarrentalsystem\\forms\\listofcars.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|solutionrelative:finalcarrentalsystem\\forms\\listofcars.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|D:\\College\\UCC SCHOOL\\UCC 2A SEM\\UCC 2A 2ndSEM\\ADVANCE DATABASE SYSTEM\\CarRentalSystem\\finalcarrentalsystem\\forms\\main_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|solutionrelative:finalcarrentalsystem\\forms\\main_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|D:\\College\\UCC SCHOOL\\UCC 2A SEM\\UCC 2A 2ndSEM\\ADVANCE DATABASE SYSTEM\\CarRentalSystem\\finalcarrentalsystem\\forms\\main_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|solutionrelative:finalcarrentalsystem\\forms\\main_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|D:\\College\\UCC SCHOOL\\UCC 2A SEM\\UCC 2A 2ndSEM\\ADVANCE DATABASE SYSTEM\\CarRentalSystem\\finalcarrentalsystem\\forms\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5D4ADAA9-E51F-48B9-AC76-7E750605327D}|FinalCarRentalSystem\\FinalCarRentalSystem.vbproj|solutionrelative:finalcarrentalsystem\\forms\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListOfCars.vb",
+              "DocumentMoniker": "D:\\College\\UCC SCHOOL\\UCC 2A SEM\\UCC 2A 2ndSEM\\ADVANCE DATABASE SYSTEM\\CarRentalSystem\\FinalCarRentalSystem\\Forms\\ListOfCars.vb",
+              "RelativeDocumentMoniker": "FinalCarRentalSystem\\Forms\\ListOfCars.vb",
+              "ToolTip": "D:\\College\\UCC SCHOOL\\UCC 2A SEM\\UCC 2A 2ndSEM\\ADVANCE DATABASE SYSTEM\\CarRentalSystem\\FinalCarRentalSystem\\Forms\\ListOfCars.vb",
+              "RelativeToolTip": "FinalCarRentalSystem\\Forms\\ListOfCars.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2022-09-24T11:13:32.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListOfCars.vb [Design]",
+              "DocumentMoniker": "D:\\College\\UCC SCHOOL\\UCC 2A SEM\\UCC 2A 2ndSEM\\ADVANCE DATABASE SYSTEM\\CarRentalSystem\\FinalCarRentalSystem\\Forms\\ListOfCars.vb",
+              "RelativeDocumentMoniker": "FinalCarRentalSystem\\Forms\\ListOfCars.vb",
+              "ToolTip": "C:\\Users\\user\\Documents\\VB PROJECT\\CarRentalSystem\\FinalCarRentalSystem\\Forms\\ListOfCars.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-09-24T11:13:32.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main_Form.vb",
+              "DocumentMoniker": "D:\\College\\UCC SCHOOL\\UCC 2A SEM\\UCC 2A 2ndSEM\\ADVANCE DATABASE SYSTEM\\CarRentalSystem\\FinalCarRentalSystem\\Forms\\Main_Form.vb",
+              "RelativeDocumentMoniker": "FinalCarRentalSystem\\Forms\\Main_Form.vb",
+              "ToolTip": "D:\\College\\UCC SCHOOL\\UCC 2A SEM\\UCC 2A 2ndSEM\\ADVANCE DATABASE SYSTEM\\CarRentalSystem\\FinalCarRentalSystem\\Forms\\Main_Form.vb",
+              "RelativeToolTip": "FinalCarRentalSystem\\Forms\\Main_Form.vb",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAAAJgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-09-24T11:13:32.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main_Form.vb [Design]",
+              "DocumentMoniker": "D:\\College\\UCC SCHOOL\\UCC 2A SEM\\UCC 2A 2ndSEM\\ADVANCE DATABASE SYSTEM\\CarRentalSystem\\FinalCarRentalSystem\\Forms\\Main_Form.vb",
+              "RelativeDocumentMoniker": "FinalCarRentalSystem\\Forms\\Main_Form.vb",
+              "ToolTip": "D:\\College\\UCC SCHOOL\\UCC 2A SEM\\UCC 2A 2ndSEM\\ADVANCE DATABASE SYSTEM\\CarRentalSystem\\FinalCarRentalSystem\\Forms\\Main_Form.vb [Design]",
+              "RelativeToolTip": "FinalCarRentalSystem\\Forms\\Main_Form.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-09-24T11:13:32.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogIn.vb [Design]",
+              "DocumentMoniker": "D:\\College\\UCC SCHOOL\\UCC 2A SEM\\UCC 2A 2ndSEM\\ADVANCE DATABASE SYSTEM\\CarRentalSystem\\FinalCarRentalSystem\\Forms\\LogIn.vb",
+              "RelativeDocumentMoniker": "FinalCarRentalSystem\\Forms\\LogIn.vb",
+              "ToolTip": "D:\\College\\UCC SCHOOL\\UCC 2A SEM\\UCC 2A 2ndSEM\\ADVANCE DATABASE SYSTEM\\CarRentalSystem\\FinalCarRentalSystem\\Forms\\LogIn.vb [Design]",
+              "RelativeToolTip": "FinalCarRentalSystem\\Forms\\LogIn.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-09-24T11:13:32.039Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
